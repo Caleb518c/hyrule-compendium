@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Thumbnail from "./Thumbnail";
-import Entry from "./Entry";
-import CategoryButton from "./CategoryButton";
+import Thumbnail from "./Thumbnail.jsx";
+import Entry from "./Entry.jsx";
+import CategoryButton from "./CategoryButton.jsx";
 import "./App.css";
 
 function App() {
